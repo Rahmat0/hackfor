@@ -1,0 +1,9 @@
+#!system/bin/sh
+echo "SELAMAT DATANG DI SCRIPT KAMI"
+echo ----
+echo ----
+echo "INI PERTAMA KALI SAYA MEMBUAT SCRIPT"
+echo ----
+echo ----
+echo "terima kasih"
+sleep 2
